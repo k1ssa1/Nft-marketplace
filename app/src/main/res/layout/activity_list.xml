@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RecyclerActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/black"
+        android:paddingBottom="16sp">
+
+        <ImageView
+            android:layout_width="112dp"
+            android:layout_height="103dp"
+            android:layout_marginTop="30sp"
+            android:src="@mipmap/coin" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Welcome to your nft-marketplace"
+            android:textSize="25dp"
+            android:gravity="center"
+            android:textColor="@color/gold"
+            android:layout_marginTop="8sp"
+            android:layout_marginBottom="20sp"
+            android:padding="30dp"
+            android:fontFamily="@font/pixel"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="-260dp"
+            android:layout_marginTop="70sp"
+            android:textSize="12dp"
+            android:fontFamily="@font/pixel"
+            android:text="Click on your favorite nft to rate it"
+            android:textColor="@color/white" />
+
+    </LinearLayout>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycle_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

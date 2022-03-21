@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="20dp"
+    android:id="@+id/parent"
+    android:layout_width="match_parent"
+    android:background="@drawable/gradient_background"
+    android:layout_height="wrap_content">
+
+
+    <ImageView
+        android:id="@+id/nftimg"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:src="@mipmap/basic_nft" />
+
+    <TextView
+        android:id="@+id/nftName"
+        android:layout_width="179dp"
+        android:layout_height="48dp"
+        android:layout_alignStart="@+id/stars"
+        android:layout_alignTop="@+id/nftimg"
+        android:fontFamily="@font/acquire"
+        android:paddingTop="10dp"
+        android:text="nftName"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/ether"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_alignStart="@+id/nftimg"
+        android:layout_alignTop="@+id/nftName"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="30dp"
+        android:src="@mipmap/ether" />
+
+    <TextView
+        android:id="@+id/nftPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/stars"
+        android:layout_alignTop="@+id/nftName"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="30dp"
+        android:fontFamily="sans-serif"
+        android:text="X.X ETH"
+        android:textColor="#42d4f5"
+        android:textSize="7dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/desc"
+        android:layout_width="179dp"
+        android:layout_height="48dp"
+        android:layout_alignStart="@+id/stars"
+        android:layout_alignTop="@+id/ether"
+        android:layout_marginTop="15dp"
+        android:fontFamily="@font/roboto"
+        android:text="Creation of : creator_x"
+        android:textColor="@color/white"
+        android:textSize="8dp" />
+
+    <RatingBar
+        android:id="@+id/stars"
+        style="@android:style/Widget.Material.RatingBar.Indicator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/nftimg"
+        android:layout_marginStart="21dp"
+        android:layout_marginBottom="-4dp"
+        android:layout_toEndOf="@+id/nftimg"
+        android:accessibilityHeading="false"
+        android:clickable="false"
+        android:progressTint="@color/gold"
+        android:progressBackgroundTint="@color/salmon"
+        android:numStars="5"
+        android:isIndicator="true"
+        android:paddingBottom="5dp"
+        android:stepSize="0.5" />
+
+    <TextView
+        android:id="@+id/ids"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/nftimg"
+        android:text="TextView"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/coin"
+        android:layout_width="69dp"
+        android:layout_height="71dp"
+        android:layout_alignStart="@+id/stars"
+        android:layout_marginStart="188dp"
+        android:layout_marginTop="10dp"
+        android:src="@mipmap/coin" />
+</RelativeLayout>
