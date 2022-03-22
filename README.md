@@ -3,6 +3,12 @@
 This was originally a school project during my 4th year of computer science and engineering.
 *********************************************************************************************
 ❗ note: the spec book did not specify the card to rate, but since non-fungibale tokens are trending, I've figured it was only logical to rate something in the market rather than just a simple object for the test.
+*********************************************************************************************
+# Activities screenshots
+
+Below you will find the screenshots of the activities
+
+<img src="C:\Users\Pc\AndroidStudioProjects\Nftmarketplace\app\src\main\res\drawable\splash_screen.png" width="500" height="500"/>
 
 *********************************************************************************************
 # Goals 	:notebook_with_decorative_cover:
