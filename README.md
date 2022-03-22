@@ -24,7 +24,7 @@ Below you will find the screenshots of the activities :arrow_down:
 <img src="https://user-images.githubusercontent.com/67519040/159586409-f22e6cf2-192a-454c-8461-8735b7dfd878.png" width="500"  />
 
 -----------------------------------------------
-- The filter search
+- The search filter
 
 <img src="https://user-images.githubusercontent.com/67519040/159586447-8da53fc3-f1bc-4425-ba2b-02d18b6c961f.png" width="500"  />
 
