@@ -8,7 +8,26 @@ This was originally a school project during my 4th year of computer science and 
 
 Below you will find the screenshots of the activities
 
-<img src="https://github.com/k1ssa1/Nft-marketplace/tree/master/app/src/main/res/drawable/splash_screen.png" alt="splash_screen" width="500" height="500"/>
+-----------------------------------------------
+- The splash activity with a rotating cube
+
+<img src="https://user-images.githubusercontent.com/67519040/159586331-df939442-f2f7-479f-81cf-7e62d937bc7a.png" width="500"/>
+
+-----------------------------------------------
+- The main activity where all the cards are listed
+
+<img src="https://user-images.githubusercontent.com/67519040/159586401-f1c4677b-dd6b-438c-a230-01c57c699866.png" width="500"  />
+
+-----------------------------------------------
+- The rating pop up to update the rating on the nft
+
+<img src="https://user-images.githubusercontent.com/67519040/159586409-f22e6cf2-192a-454c-8461-8735b7dfd878.png" width="500"  />
+
+-----------------------------------------------
+- The filter search
+
+<img src="https://user-images.githubusercontent.com/67519040/159586447-8da53fc3-f1bc-4425-ba2b-02d18b6c961f.png" width="500"  />
+
 
 *********************************************************************************************
 # Goals 	:notebook_with_decorative_cover:
