@@ -1,12 +1,12 @@
 # Nft-marketplace :mushroom:
 
-This was originally a school project during my 4th year of computer science and engineering.
+This was originaly a school project during my 4th year of computer science and engineering.
 *********************************************************************************************
 ❗ note: the spec book did not specify the card to rate, but since non-fungibale tokens are trending, I've figured it was only logical to rate something in the market rather than just a simple object for the test.
 *********************************************************************************************
-# Activities screenshots
+# Activities screenshots :framed_picture:
 
-Below you will find the screenshots of the activities
+Below you will find the screenshots of the activities :arrow_down:
 
 -----------------------------------------------
 - The splash activity with a rotating cube
@@ -53,4 +53,7 @@ Feel free to download the project folder and make your own updates.
 
 Enjoy :smiley:
 
+*********************************************************************************************
+# Developed by :computer: 
 
+Kissa Sami
