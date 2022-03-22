@@ -8,7 +8,7 @@ This was originally a school project during my 4th year of computer science and 
 
 Below you will find the screenshots of the activities
 
-<img src="C:\Users\Pc\AndroidStudioProjects\Nftmarketplace\app\src\main\res\drawable\splash_screen.png" width="500" height="500"/>
+<img src="https://github.com/k1ssa1/Nft-marketplace/tree/master/app/src/main/res/drawable/splash_screen.png" alt="splash_screen" width="500" height="500"/>
 
 *********************************************************************************************
 # Goals 	:notebook_with_decorative_cover:
