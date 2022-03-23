@@ -4,7 +4,7 @@ This was originaly a school project during my 4th year of computer science and e
 *********************************************************************************************
 ❗ note: the spec book did not specify the card to rate, but since non-fungibale tokens are trending, I've figured it was only logical to rate something in the market rather than just a simple object for the test.
 *********************************************************************************************
-# Activities screenshots :framed_picture:
+## Activities screenshots :framed_picture:
 
 Below you will find the screenshots of the activities :arrow_down:
 
@@ -30,7 +30,7 @@ Below you will find the screenshots of the activities :arrow_down:
 
 
 *********************************************************************************************
-# Goals 	:notebook_with_decorative_cover:
+## Goals 	:notebook_with_decorative_cover:
 
 1- The main goal behind the project was to implement a recyclerView to display a list of cards. :white_check_mark:
 
@@ -54,6 +54,6 @@ Feel free to download the project folder and make your own updates.
 Enjoy :smiley:
 
 *********************************************************************************************
-# Developed by :computer: 
+## Developed by :computer: 
 
 Kissai Sami
